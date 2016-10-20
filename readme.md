@@ -20,4 +20,5 @@ Your assignment is to go through the first two chapters of Code School's "[Shapi
 
 ## Bonus
 
-Once you have completed the assignment, you are welcome to watch the remaining "Shaping Up With Angular" lessons.
+* Build a one-model blog that uses hard-coded data (i.e., all of your posts and their data are stored in an object literal).
+* Watch the remaining "Shaping Up With Angular" lessons.
