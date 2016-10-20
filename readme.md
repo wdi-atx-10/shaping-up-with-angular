@@ -12,11 +12,14 @@ Your assignment is to go through the first two chapters of Code School's "[Shapi
 
 * Module
 * Controller
+* Data Binding
 * Directive
 * Template
 * View Model
 
 ## Additional Resources
+
+* [AngularJS Overview](https://www.tutorialspoint.com/angularjs/angularjs_overview.htm)
 
 ## Bonus
 
