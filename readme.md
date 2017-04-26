@@ -8,14 +8,14 @@ Your assignment is to go through the first two chapters of Code School's "[Shapi
 
 ## Deliverables
 
-[Submit an issue to this repo](https://github.com/ga-wdi-exercises/shaping-up-with-angular/issues) that contains definitions for the following terms. 1-3 sentences each will suffice...
+Define the following terms as they relate to AngularJS. 1-3 sentences each will suffice... You can either modify this README or create a text file. Submit this as you would any other homework. 
 
 * Module
 * Controller
 * Data Binding
 * Directive
 * Angular Expression (i.e., `{{ }}`)
-* View Model
+* Model
 
 ## Additional Resources
 
@@ -23,5 +23,4 @@ Your assignment is to go through the first two chapters of Code School's "[Shapi
 
 ## Bonus
 
-* Build a one-model blog that uses hard-coded data (i.e., all of your posts and their data are stored in an object literal)
 * Watch the remaining "Shaping Up With Angular" lessons
