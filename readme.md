@@ -6,22 +6,22 @@
 
 Define the following terms as they relate to AngularJS. 1-3 sentences each will suffice... You can either modify this README directly or create a new text file. Submit this as you would any other homework. 
 
-* Module
+* Module-
   How we keep code encapsulated, separate logics, and where we define dependancies for application. Modules make our code more readable and testable.
   
-* Controller
+* Controller-
    Where we define our applications behavior by defining functions and values.
     
-* Data Binding
+* Data Binding-
     Synchronization between model and view.
     
-* Directive
+* Directive-
   AngularJS directives are used to extend HTML
   
-* Angular Expression (i.e., `{{ }}`)
+* Angular Expression (i.e., `{{ }}`)-
   Used to bind application to html. Similar to directive. 
   
-* Model
+* Model-
   Binds the values of Angular application data to HTML input controls.
 ## Additional Resources
 
