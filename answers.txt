@@ -1,0 +1,11 @@
+1) Module - Modules are called when, angular specific code needs to be introduced withing an app. It appears to be used in a similar manner as require in node.js or import in react.
+
+2) Controller - Is the place where an app's behavior is defined. Similar to a component in react, functions and variables can be here as a way of creating an element idependently of the main html.
+
+3) Data Binding - This is similar to setting the state or properties in React. Essentially data binding, in most languages, is a way of dynamically displaying data on a page that isn't hardcoded onto it. Therefore, in future application, displaying data this way is much more scalable since bound data values can be reused to show different inputs.
+
+4) Directive - This seems to be a parameter in angular that can be set to run certain functions. The example in the video was a hide-show function, based upon the amount avaliable of a particular variable. Seems to be a clean way of running very basic styling and logic edits in real time.
+
+5) Angular Expression (i.e., `{{ }}`) - This is how we communicate with the native languages to display the values (states, properties, data) that we create in angular controllers.
+
+6) Model - Provides a basis for certain elements on a page, defines what the purpose of the element is and what kind of input it can take or send.
