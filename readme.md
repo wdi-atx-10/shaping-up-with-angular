@@ -13,7 +13,7 @@ Define the following terms as they relate to AngularJS. 1-3 sentences each will 
 * Module
     -where peices of angular application are writen, keeping it encapsulated. Also where all dependencies are writen
 * Controller
-    -where an define functions and variables that define an app's behavior
+    -where functions and variables are defined that define an app's behavior
 * Data Binding
     -the synchronization between a model and a view
 * Directive
