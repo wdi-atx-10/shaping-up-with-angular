@@ -1,0 +1,31 @@
+* Module:
+
+
+used to configure the $injector
+
+* Controller:
+
+
+An object that contains functions and properties. it's called with ng-controller
+
+
+* Data Binding:
+
+Controlling the data written/ created in the model on the view for the user. And vise versa.
+
+
+
+* Directive:
+
+manipulate the DOM/
+
+
+
+* Angular Expression (i.e., `{{ }}`):
+
+Dynamic data binding syntax.
+
+
+
+* Model:
+The data and how it is stored/accessed in the MVC framework.
