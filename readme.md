@@ -1,26 +1,1 @@
-# Shaping Up With Angular
-
-## Prompt
-
-Your assignment is to go through the first two chapters of Code School's "[Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)" course. This will give you a basic familiarity with Angular that will benefit you during tomorrow's intro lesson.
-
-#### [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-
-## Deliverables
-
-Define the following terms as they relate to AngularJS. 1-3 sentences each will suffice... You can either modify this README directly or create a new text file. Submit this as you would any other homework. 
-
-* Module
-* Controller
-* Data Binding
-* Directive
-* Angular Expression (i.e., `{{ }}`)
-* Model
-
-## Additional Resources
-
-* [AngularJS Overview](https://www.tutorialspoint.com/angularjs/angularjs_overview.htm)
-
-## Bonus
-
-* Watch the remaining "Shaping Up With Angular" lessons
+# Shaping Up With Angular## PromptYour assignment is to go through the first two chapters of Code School's "[Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)" course. This will give you a basic familiarity with Angular that will benefit you during tomorrow's intro lesson.#### [Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)## DeliverablesDefine the following terms as they relate to AngularJS. 1-3 sentences each will suffice... You can either modify this README directly or create a new text file. Submit this as you would any other homework.* Module  //The module is the outer component or container which houses the views, controllers and other parts of an angular app.* Controller  //Angular follows the MVC (model, view, controller) model for writing code. A best practice is to have fat models, dumb views, and skinny controllers. The controllers are the logic portion and are javascript functions that have a specific scope.* Data Binding  //in Angular, this refers to having the model and view components automatically synchronize their data* Directive  A directive is an html attribute (such as app or model ) that has been extended and uses the prefix ng (ng-app). They serve as DOM element markers that let you create custom tags and in turn manipulate them.* Angular Expression (i.e., `{{ }}`)* Model  // a model is the "factory" of the Angular app or the "schema" of the data. The ng-model is used to bind HTML values to the data of the app.## Additional Resources* [AngularJS Overview](https://www.tutorialspoint.com/angularjs/angularjs_overview.htm)## Bonus* Watch the remaining "Shaping Up With Angular" lessons
